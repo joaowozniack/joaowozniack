@@ -1,6 +1,6 @@
 ### Opa, baum? João Márcio aqui
 
-* Estudante de Engenharia de Software - PUCPR
+* Estudante de Engenharia de Software - 4º Período - PUCPR
 
 <div>
   <a href="https://github.com/joaowozniack">

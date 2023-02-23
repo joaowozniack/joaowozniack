@@ -1,6 +1,6 @@
 <h1> Opa, baum? Sou João Wozniack </h1>
 
-<h4> * Estudante de Engenharia de Software - PUCPR </h4>
+<h3> - Estudante de Engenharia de Software - PUCPR </h3>
 
 
 

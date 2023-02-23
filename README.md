@@ -1,6 +1,6 @@
-<h1> Opa, baum? João Márcio aqui </h1>
+<h1> Opa, baum? Sou João Wozniack </h1>
 
-* Estudante de Engenharia de Software - PUCPR
+<h4> Estudante de Engenharia de Software - PUCPR </h4>
 
 <div>
   <a href="https://github.com/joaowozniack">

@@ -11,9 +11,14 @@
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Joao-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Joao-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+</div>
 
+##
+
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-  ##
+##
   
-  ![Snake animation](https://github.com/joaowozniack/joaowozniack/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joaowozniack/joaowozniack/blob/output/github-contribution-grid-snake.svg)

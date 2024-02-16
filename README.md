@@ -13,4 +13,4 @@
   
   ##
   
-  [Snake animation](https://github.com/joaowozniack/joaowozniack/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/joaowozniack/joaowozniack/blob/output/github-contribution-grid-snake.svg)

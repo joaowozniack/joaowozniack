@@ -8,9 +8,6 @@ Apaixonado por tecnologia, programação e resolução de problemas. Atualmente,
 ### 💻 Tecnologias e Ferramentas:
 
 #### **Frontend:**
-- HTML, CSS, JavaScript
-- React, Angular
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,9 +17,6 @@ Apaixonado por tecnologia, programação e resolução de problemas. Atualmente,
 </div>
 
 #### **Backend:**
-- .NET, Node.js, Python
-- Java, C#
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img algin="center" alt="Joao-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -32,16 +26,12 @@ Apaixonado por tecnologia, programação e resolução de problemas. Atualmente,
 </div>
 
 #### **Banco de Dados:**
-- SQL Server, MySQL
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" alt="Joao-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
 #### **Outras Ferramentas:**
-- Git, Azure
-- Visual Studio, VS Code
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Joao-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />

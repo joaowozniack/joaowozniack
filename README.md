@@ -42,7 +42,9 @@ Sou Engenheiro de Software formado pela PUCPR, com experiência em .NET, Angular
 
 ### 🎓 Certificações:
 
-- **[Microsoft Certified: Azure Fundamentals (AZ-900)]([https://www.your-cert-link.co](https://learn.microsoft.com/api/credentials/share/pt-br/WozniackJoao-2598/D86611A83F7FE838?sharingId=62839A3B20D132A6)m)**
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/WozniackJoao-2598/D86611A83F7FE838?sharingId=62839A3B20D132A6" target="_blank">
+  Microsoft Certified: Azure Fundamentals (AZ-900)
+</a>
 
 ---
 

@@ -51,31 +51,14 @@ Apaixonado por tecnologia, programação e resolução de problemas. Atualmente,
 
 ---
 
+### 🎓 Certificações:
 
+- **[Microsoft Certified: Azure Fundamentals (AZ-900)]([https://www.your-cert-link.co](https://learn.microsoft.com/api/credentials/share/pt-br/WozniackJoao-2598/D86611A83F7FE838?sharingId=62839A3B20D132A6)m)**
 
-
-##
-
-<div>
-  <a href="https://www.instagram.com/joao_wozniack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaowozniack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBjpmmzvVprLfhwmQhTzvmWztrpJlxMmRgBfZckxlWWdgWxjJTTHBszSpDMSTPgLSmQxV" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
-  
-##
-
-
-
+---
 
 ### 🚀 Meus Projetos:
 
-- **[Sistema de Gestão de Protocolos](https://github.com/joaowozniack/protocol-management-system)**: Sistema de gerenciamento de protocolos com .NET Core e SQL Server.
-- **[VestFy](https://github.com/joaowozniack/vestfy)**: Aplicativo para experimentação de roupas usando AR e IA com .NET e Angular.
-- **[Checkfy](https://github.com/joaowozniack/checkfy)**: Sistema de avaliação MPS.BR com Angular e .NET.
-
----
 
 ### 📊 Estatísticas do GitHub:
 
@@ -83,20 +66,11 @@ Apaixonado por tecnologia, programação e resolução de problemas. Atualmente,
 
 ---
 
-### 🎓 Certificações:
-
-- **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.your-cert-link.com)**
-- **[Certificação em Desenvolvimento de Software com .NET](https://www.your-cert-link.com)**
-
----
-
 ### 📫 Como me encontrar:
-
 <div>
   <a href="https://www.instagram.com/joao_wozniack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaowozniack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBjpmmzvVprLfhwmQhTzvmWztrpJlxMmRgBfZckxlWWdgWxjJTTHBszSpDMSTPgLSmQxV" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/joaowozniack" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
-
----

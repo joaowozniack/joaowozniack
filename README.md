@@ -1,6 +1,6 @@
-<h1> Olá! Bem-vindo! Sou João Wozniack </h1>
+<h1> Olá! Bem-vindo! Sou João Wozniack 👋 </h1>
 
-<h3> - Estudante de Engenharia de Software - PUCPR </h3>
+<h3> Engenheiro de Software </h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,5 +24,61 @@
 </div>
   
 ##
-  
-![Snake animation](https://github.com/joaowozniack/joaowozniack/blob/output/github-contribution-grid-snake.svg)
+
+# Olá! Bem-vindo! Sou João Wozniack 👋
+
+### Engenheiro de Software | Estudante de Engenharia de Software - PUCPR
+Apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estou focado no desenvolvimento de software com .NET e explorando novas tecnologias como inteligência artificial, machine learning e arquitetura de sistemas.
+
+---
+
+### 💻 Tecnologias e Ferramentas:
+
+#### **Frontend:**
+- HTML, CSS, JavaScript
+- React, Angular
+
+#### **Backend:**
+- .NET, Node.js, Python
+- Java, C#
+
+#### **Banco de Dados:**
+- SQL Server, PostgreSQL, MySQL
+
+#### **Outras Ferramentas:**
+- Git, Docker, Kubernetes, Azure, AWS
+- Visual Studio, VS Code
+
+---
+
+### 🚀 Meus Projetos:
+
+- **[Sistema de Gestão de Protocolos](https://github.com/joaowozniack/protocol-management-system)**: Sistema de gerenciamento de protocolos com .NET Core e SQL Server.
+- **[VestFy](https://github.com/joaowozniack/vestfy)**: Aplicativo para experimentação de roupas usando AR e IA com .NET e Angular.
+- **[Checkfy](https://github.com/joaowozniack/checkfy)**: Sistema de avaliação MPS.BR com Angular e .NET.
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+![João Wozniack GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaowozniack&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 🎓 Certificações:
+
+- **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.your-cert-link.com)**
+- **[Certificação em Desenvolvimento de Software com .NET](https://www.your-cert-link.com)**
+
+---
+
+### 📫 Como me encontrar:
+
+<div>
+  <a href="https://www.instagram.com/joao_wozniack/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaowozniack/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBjpmmzvVprLfhwmQhTzvmWztrpJlxMmRgBfZckxlWWdgWxjJTTHBszSpDMSTPgLSmQxV" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/joaowozniack" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
+
+---

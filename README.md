@@ -1,7 +1,6 @@
 # Olá! Bem-vindo! Sou João Wozniack 👋
 
-### Engenheiro de Software
-Apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estou focado no desenvolvimento de software com .NET e explorando novas tecnologias como inteligência artificial, machine learning e arquitetura de sistemas.
+Sou Engenheiro de Software formado pela PUCPR, com experiência em .NET, Angular e Azure. Busco sempre aprender e criar soluções que façam a diferença, impactando positivamente o mundo digital.
 
 ---
 

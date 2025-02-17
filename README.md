@@ -1,17 +1,54 @@
-<h1> Olá! Bem-vindo! Sou João Wozniack 👋 </h1>
+# Olá! Bem-vindo! Sou João Wozniack 👋
 
-<h3> Engenheiro de Software </h3>
+### Engenheiro de Software
+Apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estou focado no desenvolvimento de software com .NET e explorando novas tecnologias como inteligência artificial, machine learning e arquitetura de sistemas.
+
+---
+
+### 💻 Tecnologias e Ferramentas:
+
+#### **Frontend:**
+- HTML, CSS, JavaScript
+- React, Angular
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joao-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Joao-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+</div>
+
+#### **Backend:**
+- .NET, Node.js, Python
+- Java, C#
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Joao-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img algin="center" alt="Joao-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Joao-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+</div>
+
+#### **Banco de Dados:**
+- SQL Server, MySQL
+  
+<div style="display: inline_block"><br>
   <img align="center" alt="Joao-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </div>
+
+#### **Outras Ferramentas:**
+- Git, Azure
+- Visual Studio, VS Code
+<div style="display: inline_block"><br>
+  <img align="center" alt="Joao-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+</div>
+
+---
+
+
+
 
 ##
 
@@ -25,31 +62,8 @@
   
 ##
 
-# Olá! Bem-vindo! Sou João Wozniack 👋
 
-### Engenheiro de Software | Estudante de Engenharia de Software - PUCPR
-Apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estou focado no desenvolvimento de software com .NET e explorando novas tecnologias como inteligência artificial, machine learning e arquitetura de sistemas.
 
----
-
-### 💻 Tecnologias e Ferramentas:
-
-#### **Frontend:**
-- HTML, CSS, JavaScript
-- React, Angular
-
-#### **Backend:**
-- .NET, Node.js, Python
-- Java, C#
-
-#### **Banco de Dados:**
-- SQL Server, PostgreSQL, MySQL
-
-#### **Outras Ferramentas:**
-- Git, Docker, Kubernetes, Azure, AWS
-- Visual Studio, VS Code
-
----
 
 ### 🚀 Meus Projetos:
 

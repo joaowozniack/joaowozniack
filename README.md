@@ -50,11 +50,11 @@ Sou Engenheiro de Software formado pela PUCPR, com experiência em .NET, Angular
 
 ### 🚀 Meus Projetos:
 - **[BrasileiraoAPI](https://github.com/joaowozniack/BrasileiraoAPI)**: Sistema Brasileirao com ASP.NET Core e MySQL.
-- 
+  
 - **[AppBrasileirao](https://github.com/joaowozniack/AppBrasileirao)**: Tela do Brasileirao com Angular, portal para acompanhar os times do campeonato brasileiro.
-- 
+  
 - **[ProtocolSystem](https://github.com/joaowozniack/ProtocolSystem)**: Sistema de gerenciamento de protocolos com ASP.NET Core e SQL Server.
-- 
+  
 - **[CsvImportAPI](https://github.com/joaowozniack/DotnetCsvAPI-PyClient)**: Sistema de importação de CSV com ASP.NET Core e Python.
 
 ### 📊 Estatísticas do GitHub:

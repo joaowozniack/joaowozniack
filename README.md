@@ -36,13 +36,17 @@ Apaixonado por tecnologia, programação e resolução de problemas. Atualmente,
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align="center" alt="Joao-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
 #### **Outras Ferramentas:**
 - Git, Azure
 - Visual Studio, VS Code
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-SQLserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align="center" alt="Joao-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Joao-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+  <img align="center" alt="Joao-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img align="center" alt="Joao-vscode" height="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />      
 </div>
 
 ---

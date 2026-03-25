@@ -1,6 +1,6 @@
 # Olá! Bem-vindo! Sou João Wozniack 👋
 
-Sou Engenheiro de Software formado pela PUCPR, com experiência em .NET, Angular e Azure. Busco sempre aprender e criar soluções que façam a diferença, impactando positivamente o mundo digital.
+Sou Engenheiro de Software formado pela PUCPR, com experiência em desenvolvimento full-stack. Busco sempre aprender e criar soluções que façam a diferença, impactando positivamente o mundo digital.
 
 ---
 
